@@ -1,0 +1,6 @@
+[submodule "cubetiq-utils"]
+	path = cubetiq-utils
+	url = https://git.cubetiqs.com/CUBETIQ/cubetiq-utils.git
+[submodule "gradle-sample-module-example"]
+	path = gradle-sample-module-example
+	url = https://git.cubetiqs.com/CUBETIQ/gradle-sample-module-example.git
